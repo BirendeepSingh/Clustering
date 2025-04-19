@@ -49,10 +49,16 @@ Here is the content structured into bullet points:
 
 ### Evaluation Metrics Heatmaps
 - **Silhouette Score Heatmap**:
+- ![image](https://github.com/user-attachments/assets/ef8635e3-3bfd-447e-a8bd-eb7f5e1bb91d)
+
   - (Heatmap data visualization)
 - **Calinski-Harabasz Score Heatmap**:
+- ![image](https://github.com/user-attachments/assets/40771668-8ee4-461a-b6f0-a1d1e2d9fa46)
+
   - (Heatmap data visualization)
 - **Davies-Bouldin Score Heatmap**:
+- ![image](https://github.com/user-attachments/assets/fcc34485-e964-4d56-9a0e-e5cf52257bd5)
+
   - (Heatmap data visualization)
 
 ### Conclusion
